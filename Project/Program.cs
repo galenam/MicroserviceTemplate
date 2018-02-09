@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using NLog.Web;
 
-namespace project
+namespace Project
 {
 	public class Program
 	{
@@ -20,6 +20,17 @@ namespace project
 
 		public static IWebHost BuildWebHost(string[] args) =>
 			WebHost.CreateDefaultBuilder(args)
+			.ConfigureAppConfiguration((builderContext, config) =>
+				{
+					IHostingEnvironment env = builderContext.HostingEnvironment;
+					builderContext.HostingEnvironment.ConfigureNLog("nlog.config");
+					config
+					.SetBasePath(Directory.GetCurrentDirectory())
+					.AddJsonFile($"appsettings.json", true, reloadOnChange: true)
+					.AddJsonFile($"appsettings.{env.EnvironmentName}.json", true, reloadOnChange: true)
+					.AddJsonFile("hosting.json", true)
+					.Build();
+				})
 				.UseStartup<Startup>()
 				.UseNLog()
 				.Build();

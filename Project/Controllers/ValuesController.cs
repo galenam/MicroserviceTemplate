@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace project.Controllers
+namespace Project.Controllers
 {
 	[Route("api/[controller]")]
 	public class ValuesController : Controller
