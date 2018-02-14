@@ -28,7 +28,6 @@ namespace Project
 					.SetBasePath(Directory.GetCurrentDirectory())
 					.AddJsonFile($"appsettings.json", true, reloadOnChange: true)
 					.AddJsonFile($"appsettings.{env.EnvironmentName}.json", true, reloadOnChange: true)
-					.AddJsonFile("hosting.json", true)
 					.Build();
 				})
 				.UseStartup<Startup>()

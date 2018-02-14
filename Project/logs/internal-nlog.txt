@@ -1,13 +1,429 @@
-2018-02-06 14:49:30.1748 Info Message Template Auto Format enabled
-2018-02-06 14:49:30.2438 Info Adding target File Target[allfile]
-2018-02-06 14:49:30.2438 Info Adding target Null Target[blackhole]
-2018-02-06 14:49:30.2697 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+2018-02-11 11:37:57.0220 Info Message Template Auto Format enabled
+2018-02-11 11:37:57.1205 Info Adding target File Target[allfile]
+2018-02-11 11:37:57.1205 Info Adding target Null Target[blackhole]
+2018-02-11 11:37:57.1835 Error Parsing configuration from F:\Dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing F:\Dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
    at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
    at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
    at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
    at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
    --- End of inner exception stack trace ---
-2018-02-06 14:49:30.2785 Info Found 32 configuration items
-2018-02-06 14:49:30.2785 Info Found 32 configuration items
-2018-02-06 16:05:23.1769 Info Shutting down logging...
-2018-02-06 16:05:23.1980 Info Logger has been shut down.
+2018-02-11 11:37:57.1917 Info Found 32 configuration items
+2018-02-11 11:37:57.1917 Info Found 32 configuration items
+2018-02-11 11:37:58.1045 Info Message Template Auto Format enabled
+2018-02-11 11:37:58.1045 Info Found 32 configuration items
+2018-02-11 11:37:58.1045 Info Adding target File Target[allfile]
+2018-02-11 11:37:58.1045 Info Adding target Null Target[blackhole]
+2018-02-11 11:37:58.1045 Error Parsing configuration from F:\Dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing F:\Dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-11 11:37:58.4976 Info Message Template Auto Format enabled
+2018-02-11 11:37:58.4976 Info Found 32 configuration items
+2018-02-11 11:37:58.5001 Info Adding target File Target[allfile]
+2018-02-11 11:37:58.5001 Info Adding target Null Target[blackhole]
+2018-02-11 11:37:58.5001 Error Parsing configuration from F:\Dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing F:\Dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-11 11:37:58.5001 Info Closing old configuration.
+2018-02-11 11:37:58.5203 Info Found 32 configuration items
+2018-02-11 11:37:58.5203 Info Found 32 configuration items
+2018-02-11 11:39:07.6882 Info Message Template Auto Format enabled
+2018-02-11 11:39:07.7714 Info Adding target File Target[allfile]
+2018-02-11 11:39:07.7714 Info Adding target Null Target[blackhole]
+2018-02-11 11:39:07.8584 Error Parsing configuration from f:\Dev\MicroserviceTemplate\Project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing f:\Dev\MicroserviceTemplate\Project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-11 11:39:07.8667 Info Found 32 configuration items
+2018-02-11 11:39:07.8750 Info Found 32 configuration items
+2018-02-11 11:45:06.2791 Info Message Template Auto Format enabled
+2018-02-11 11:45:06.3255 Info Adding target File Target[allfile]
+2018-02-11 11:45:06.3555 Info Adding target Null Target[blackhole]
+2018-02-11 11:45:06.3741 Error Parsing configuration from F:\Dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing F:\Dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-11 11:45:06.3832 Info Found 32 configuration items
+2018-02-11 11:45:06.3832 Info Found 32 configuration items
+2018-02-11 11:45:06.5258 Info Message Template Auto Format enabled
+2018-02-11 11:45:06.5258 Info Found 32 configuration items
+2018-02-11 11:45:06.5258 Info Adding target File Target[allfile]
+2018-02-11 11:45:06.5258 Info Adding target Null Target[blackhole]
+2018-02-11 11:45:06.5258 Error Parsing configuration from F:\Dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing F:\Dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-11 11:45:06.6314 Info Message Template Auto Format enabled
+2018-02-11 11:45:06.6314 Info Found 32 configuration items
+2018-02-11 11:45:06.6340 Info Adding target File Target[allfile]
+2018-02-11 11:45:06.6340 Info Adding target Null Target[blackhole]
+2018-02-11 11:45:06.6340 Error Parsing configuration from F:\Dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing F:\Dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-11 11:45:06.6340 Info Closing old configuration.
+2018-02-11 11:45:06.6537 Info Found 32 configuration items
+2018-02-11 11:45:06.6537 Info Found 32 configuration items
+2018-02-12 08:40:23.6059 Info Message Template Auto Format enabled
+2018-02-12 08:40:23.6743 Info Adding target File Target[allfile]
+2018-02-12 08:40:23.6743 Info Adding target Null Target[blackhole]
+2018-02-12 08:40:23.7038 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-12 08:40:23.7123 Info Found 32 configuration items
+2018-02-12 08:40:23.7123 Info Found 32 configuration items
+2018-02-12 08:40:24.4890 Info Message Template Auto Format enabled
+2018-02-12 08:40:24.4899 Info Found 32 configuration items
+2018-02-12 08:40:24.4899 Info Adding target File Target[allfile]
+2018-02-12 08:40:24.4899 Info Adding target Null Target[blackhole]
+2018-02-12 08:40:24.4899 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-12 08:40:24.6645 Info Message Template Auto Format enabled
+2018-02-12 08:40:24.6645 Info Found 32 configuration items
+2018-02-12 08:40:24.6645 Info Adding target File Target[allfile]
+2018-02-12 08:40:24.6645 Info Adding target Null Target[blackhole]
+2018-02-12 08:40:24.6645 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-12 08:40:24.6645 Info Closing old configuration.
+2018-02-12 08:40:24.6868 Info Found 32 configuration items
+2018-02-12 08:40:24.6868 Info Found 32 configuration items
+2018-02-12 08:49:00.2700 Info Shutting down logging...
+2018-02-12 08:49:00.2700 Info Logger has been shut down.
+2018-02-12 08:49:07.8309 Info Message Template Auto Format enabled
+2018-02-12 08:49:07.8854 Info Adding target File Target[allfile]
+2018-02-12 08:49:07.8854 Info Adding target Null Target[blackhole]
+2018-02-12 08:49:07.9055 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-12 08:49:07.9140 Info Found 32 configuration items
+2018-02-12 08:49:07.9140 Info Found 32 configuration items
+2018-02-12 08:49:08.0561 Info Message Template Auto Format enabled
+2018-02-12 08:49:08.0561 Info Found 32 configuration items
+2018-02-12 08:49:08.0561 Info Adding target File Target[allfile]
+2018-02-12 08:49:08.0561 Info Adding target Null Target[blackhole]
+2018-02-12 08:49:08.0561 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-12 08:49:08.1830 Info Message Template Auto Format enabled
+2018-02-12 08:49:08.1830 Info Found 32 configuration items
+2018-02-12 08:49:08.1830 Info Adding target File Target[allfile]
+2018-02-12 08:49:08.1830 Info Adding target Null Target[blackhole]
+2018-02-12 08:49:08.1830 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-12 08:49:08.1830 Info Closing old configuration.
+2018-02-12 08:49:08.2062 Info Found 32 configuration items
+2018-02-12 08:49:08.2062 Info Found 32 configuration items
+2018-02-12 08:53:20.4773 Info Shutting down logging...
+2018-02-12 08:53:20.4773 Info Logger has been shut down.
+2018-02-12 08:53:26.7744 Info Message Template Auto Format enabled
+2018-02-12 08:53:26.8272 Info Adding target File Target[allfile]
+2018-02-12 08:53:26.8285 Info Adding target Null Target[blackhole]
+2018-02-12 08:53:26.8475 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-12 08:53:26.8475 Info Found 32 configuration items
+2018-02-12 08:53:26.8650 Info Found 32 configuration items
+2018-02-12 08:53:26.9985 Info Message Template Auto Format enabled
+2018-02-12 08:53:26.9985 Info Found 32 configuration items
+2018-02-12 08:53:26.9985 Info Adding target File Target[allfile]
+2018-02-12 08:53:26.9985 Info Adding target Null Target[blackhole]
+2018-02-12 08:53:27.0008 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-12 08:53:27.1062 Info Message Template Auto Format enabled
+2018-02-12 08:53:27.1062 Info Found 32 configuration items
+2018-02-12 08:53:27.1062 Info Adding target File Target[allfile]
+2018-02-12 08:53:27.1062 Info Adding target Null Target[blackhole]
+2018-02-12 08:53:27.1062 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-12 08:53:27.1098 Info Closing old configuration.
+2018-02-12 08:53:27.1277 Info Found 32 configuration items
+2018-02-12 08:53:27.1277 Info Found 32 configuration items
+2018-02-14 17:25:04.7566 Info Message Template Auto Format enabled
+2018-02-14 17:25:04.8266 Info Adding target File Target[allfile]
+2018-02-14 17:25:04.8266 Info Adding target Null Target[blackhole]
+2018-02-14 17:25:04.8540 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:25:04.8618 Info Found 32 configuration items
+2018-02-14 17:25:04.8618 Info Found 32 configuration items
+2018-02-14 17:25:05.6516 Info Message Template Auto Format enabled
+2018-02-14 17:25:05.6516 Info Found 32 configuration items
+2018-02-14 17:25:05.6516 Info Adding target File Target[allfile]
+2018-02-14 17:25:05.6516 Info Adding target Null Target[blackhole]
+2018-02-14 17:25:05.6516 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:25:05.8174 Info Message Template Auto Format enabled
+2018-02-14 17:25:05.8174 Info Found 32 configuration items
+2018-02-14 17:25:05.8174 Info Adding target File Target[allfile]
+2018-02-14 17:25:05.8174 Info Adding target Null Target[blackhole]
+2018-02-14 17:25:05.8174 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:25:05.8174 Info Closing old configuration.
+2018-02-14 17:25:05.8399 Info Found 32 configuration items
+2018-02-14 17:25:05.8399 Info Found 32 configuration items
+2018-02-14 17:27:59.1469 Info Shutting down logging...
+2018-02-14 17:27:59.1469 Info Logger has been shut down.
+2018-02-14 17:28:10.1007 Info Message Template Auto Format enabled
+2018-02-14 17:28:10.1705 Info Adding target File Target[allfile]
+2018-02-14 17:28:10.1705 Info Adding target Null Target[blackhole]
+2018-02-14 17:28:10.2149 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\Project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\Project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:28:10.2241 Info Found 32 configuration items
+2018-02-14 17:28:10.2332 Info Found 32 configuration items
+2018-02-14 17:28:10.7150 Info Message Template Auto Format enabled
+2018-02-14 17:28:10.7150 Info Found 32 configuration items
+2018-02-14 17:28:10.7164 Info Adding target File Target[allfile]
+2018-02-14 17:28:10.7164 Info Adding target Null Target[blackhole]
+2018-02-14 17:28:10.7164 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\Project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\Project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:28:10.8974 Info Message Template Auto Format enabled
+2018-02-14 17:28:10.8974 Info Found 32 configuration items
+2018-02-14 17:28:10.8974 Info Adding target File Target[allfile]
+2018-02-14 17:28:10.8974 Info Adding target Null Target[blackhole]
+2018-02-14 17:28:10.8974 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\Project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\Project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:28:10.8974 Info Closing old configuration.
+2018-02-14 17:28:10.9260 Info Found 32 configuration items
+2018-02-14 17:28:10.9260 Info Found 32 configuration items
+2018-02-14 17:33:31.7870 Info Message Template Auto Format enabled
+2018-02-14 17:33:31.8571 Info Adding target File Target[allfile]
+2018-02-14 17:33:31.8571 Info Adding target Null Target[blackhole]
+2018-02-14 17:33:31.9000 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\Project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\Project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:33:31.9000 Info Found 32 configuration items
+2018-02-14 17:33:31.9187 Info Found 32 configuration items
+2018-02-14 17:33:32.4077 Info Message Template Auto Format enabled
+2018-02-14 17:33:32.4077 Info Found 32 configuration items
+2018-02-14 17:33:32.4077 Info Adding target File Target[allfile]
+2018-02-14 17:33:32.4077 Info Adding target Null Target[blackhole]
+2018-02-14 17:33:32.4077 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\Project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\Project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:33:32.5833 Info Message Template Auto Format enabled
+2018-02-14 17:33:32.5833 Info Found 32 configuration items
+2018-02-14 17:33:32.5833 Info Adding target File Target[allfile]
+2018-02-14 17:33:32.5833 Info Adding target Null Target[blackhole]
+2018-02-14 17:33:32.5833 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\Project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\Project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:33:32.5877 Info Closing old configuration.
+2018-02-14 17:33:32.6138 Info Found 32 configuration items
+2018-02-14 17:33:32.6138 Info Found 32 configuration items
+2018-02-14 17:40:50.1354 Info Message Template Auto Format enabled
+2018-02-14 17:40:50.2070 Info Adding target File Target[allfile]
+2018-02-14 17:40:50.2070 Info Adding target Null Target[blackhole]
+2018-02-14 17:40:50.2522 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\Project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\Project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:40:50.2606 Info Found 32 configuration items
+2018-02-14 17:40:50.2606 Info Found 32 configuration items
+2018-02-14 17:40:50.7481 Info Message Template Auto Format enabled
+2018-02-14 17:40:50.7481 Info Found 32 configuration items
+2018-02-14 17:40:50.7481 Info Adding target File Target[allfile]
+2018-02-14 17:40:50.7481 Info Adding target Null Target[blackhole]
+2018-02-14 17:40:50.7481 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\Project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\Project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:40:50.9184 Info Message Template Auto Format enabled
+2018-02-14 17:40:50.9184 Info Found 32 configuration items
+2018-02-14 17:40:50.9184 Info Adding target File Target[allfile]
+2018-02-14 17:40:50.9184 Info Adding target Null Target[blackhole]
+2018-02-14 17:40:50.9184 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\Project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\Project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:40:50.9184 Info Closing old configuration.
+2018-02-14 17:40:50.9476 Info Found 32 configuration items
+2018-02-14 17:40:50.9476 Info Found 32 configuration items
+2018-02-14 17:41:49.1412 Info Message Template Auto Format enabled
+2018-02-14 17:41:49.1951 Info Adding target File Target[allfile]
+2018-02-14 17:41:49.1951 Info Adding target Null Target[blackhole]
+2018-02-14 17:41:49.2166 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:41:49.2166 Info Found 32 configuration items
+2018-02-14 17:41:49.2336 Info Found 32 configuration items
+2018-02-14 17:41:49.3728 Info Message Template Auto Format enabled
+2018-02-14 17:41:49.3728 Info Found 32 configuration items
+2018-02-14 17:41:49.3728 Info Adding target File Target[allfile]
+2018-02-14 17:41:49.3728 Info Adding target Null Target[blackhole]
+2018-02-14 17:41:49.3728 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:41:49.4826 Info Message Template Auto Format enabled
+2018-02-14 17:41:49.4826 Info Found 32 configuration items
+2018-02-14 17:41:49.4826 Info Adding target File Target[allfile]
+2018-02-14 17:41:49.4826 Info Adding target Null Target[blackhole]
+2018-02-14 17:41:49.4826 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:41:49.4826 Info Closing old configuration.
+2018-02-14 17:41:49.5062 Info Found 32 configuration items
+2018-02-14 17:41:49.5062 Info Found 32 configuration items
+2018-02-14 17:42:23.0922 Info Shutting down logging...
+2018-02-14 17:42:23.0922 Info Logger has been shut down.
+2018-02-14 17:42:29.8460 Info Message Template Auto Format enabled
+2018-02-14 17:42:29.9021 Info Adding target File Target[allfile]
+2018-02-14 17:42:29.9021 Info Adding target Null Target[blackhole]
+2018-02-14 17:42:29.9237 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:42:29.9316 Info Found 32 configuration items
+2018-02-14 17:42:29.9316 Info Found 32 configuration items
+2018-02-14 17:42:30.0782 Info Message Template Auto Format enabled
+2018-02-14 17:42:30.0782 Info Found 32 configuration items
+2018-02-14 17:42:30.0782 Info Adding target File Target[allfile]
+2018-02-14 17:42:30.0782 Info Adding target Null Target[blackhole]
+2018-02-14 17:42:30.0782 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:42:30.1916 Info Message Template Auto Format enabled
+2018-02-14 17:42:30.1916 Info Found 32 configuration items
+2018-02-14 17:42:30.1916 Info Adding target File Target[allfile]
+2018-02-14 17:42:30.1933 Info Adding target Null Target[blackhole]
+2018-02-14 17:42:30.1933 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:42:30.1933 Info Closing old configuration.
+2018-02-14 17:42:30.2139 Info Found 32 configuration items
+2018-02-14 17:42:30.2139 Info Found 32 configuration items
+2018-02-14 17:51:29.6223 Info Shutting down logging...
+2018-02-14 17:51:29.6223 Info Logger has been shut down.
+2018-02-14 17:51:36.6445 Info Message Template Auto Format enabled
+2018-02-14 17:51:36.6990 Info Adding target File Target[allfile]
+2018-02-14 17:51:36.6990 Info Adding target Null Target[blackhole]
+2018-02-14 17:51:36.7199 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:51:36.7278 Info Found 32 configuration items
+2018-02-14 17:51:36.7278 Info Found 32 configuration items
+2018-02-14 17:51:36.8782 Info Message Template Auto Format enabled
+2018-02-14 17:51:36.8782 Info Found 32 configuration items
+2018-02-14 17:51:36.8782 Info Adding target File Target[allfile]
+2018-02-14 17:51:36.8782 Info Adding target Null Target[blackhole]
+2018-02-14 17:51:36.8782 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\nlog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\nlog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:51:36.9900 Info Message Template Auto Format enabled
+2018-02-14 17:51:36.9900 Info Found 32 configuration items
+2018-02-14 17:51:36.9900 Info Adding target File Target[allfile]
+2018-02-14 17:51:36.9900 Info Adding target Null Target[blackhole]
+2018-02-14 17:51:36.9900 Error Parsing configuration from D:\My\dev\MicroserviceTemplate\project\NLog.config failed. Exception: NLog.NLogConfigurationException: Exception when parsing D:\My\dev\MicroserviceTemplate\project\NLog.config.  ---> NLog.NLogConfigurationException: Target ownFile-web not found.
+   at NLog.Config.XmlLoggingConfiguration.ParseLoggerElement(NLogXmlElement loggerElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseRulesElement(NLogXmlElement rulesElement, IList`1 rulesCollection)
+   at NLog.Config.XmlLoggingConfiguration.ParseNLogElement(NLogXmlElement nlogElement, String filePath, Boolean autoReloadDefault)
+   at NLog.Config.XmlLoggingConfiguration.Initialize(XmlReader reader, String fileName, Boolean ignoreErrors)
+   --- End of inner exception stack trace ---
+2018-02-14 17:51:36.9900 Info Closing old configuration.
+2018-02-14 17:51:37.0133 Info Found 32 configuration items
+2018-02-14 17:51:37.0133 Info Found 32 configuration items

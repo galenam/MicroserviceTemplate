@@ -12,6 +12,11 @@ using Swashbuckle.AspNetCore.Swagger;
 using NLog.Web;
 using Project.Models;
 using Microsoft.AspNetCore.Authorization;
+using Project.Auth;
+using Common.Const;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.OpenIdConnect;
+using Microsoft.AspNetCore.Mvc.Authorization;
 
 namespace Project
 {
@@ -27,7 +32,10 @@ namespace Project
 		// This method gets called by the runtime. Use this method to add services to the container.
 		public void ConfigureServices(IServiceCollection services)
 		{
-			services.AddMvc();
+			services.AddMvc(options =>
+			{
+				options.Filters.Add(new AuthorizeFilter(new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build()));
+			});
 
 			services.AddSwaggerGen(c =>
 			{
@@ -41,12 +49,11 @@ namespace Project
 			var appSettingsModel = new AppSettings();
 			section.Bind(appSettingsModel);
 
-			services.AddAuthorization(options =>
+			services.AddAuthentication(o =>
 			{
-				options.AddPolicy("NeedPhoneNumber", policy => policy.Requirements.Add(new PhoneNumberRequirement(appSettingsModel.PhoneRegex)));
-			});
+				o.DefaultScheme = PolicyName.PhoneNumber;
+			}).AddScheme<PhoneNumberAuthenticationOptions, PhoneNumberAuthenticationHandler>(PolicyName.PhoneNumber, o => { });
 
-			services.AddSingleton<IAuthorizationHandler, pho>();
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -62,6 +69,7 @@ namespace Project
 			{
 				c.SwaggerEndpoint("/swagger/v1/swagger.json", "TemplateUi");
 			});
+			app.UseAuthentication();
 
 			app.UseMvc();
 		}
