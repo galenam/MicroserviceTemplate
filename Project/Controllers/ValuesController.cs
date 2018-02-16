@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Common.Const;
-using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Project.Models;
 
 namespace Project.Controllers
 {
@@ -13,17 +14,19 @@ namespace Project.Controllers
 	public class ValuesController : Controller
 	{
 		private static ILogger<ValuesController> _logger;
-		public ValuesController(ILogger<ValuesController> logger)
+		private static IDataProtector _dataProtector;
+		public ValuesController(ILogger<ValuesController> logger, IDataProtectionProvider dataProtectionProvider)
 		{
 			_logger = logger;
+			_dataProtector = dataProtectionProvider.CreateProtector(Common.Const.DataProtectorsNames.RootDataProtectorName);
 		}
 
 		// GET api/values
 		[HttpGet]
-		public IEnumerable<string> Get()
+		public IEnumerable<ReturnedValue> Get()
 		{
 			_logger.LogInformation("call method get");
-			return new string[] { "value1", "value2" };
+			return new[] { new ReturnedValue { SecureProperty = _dataProtector.Protect("test"), NonSecureProperty = 5 } };
 		}
 
 		// GET api/values/5

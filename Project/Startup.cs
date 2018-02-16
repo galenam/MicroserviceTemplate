@@ -42,23 +42,26 @@ namespace Project
 				c.SwaggerDoc("v1", new Info { Title = "Template", Version = "v1", });
 			});
 
-			var section = Configuration.GetSection("AppSettings");
-			services.Configure<AppSettings>(section);
-			services.AddOptions();
-
+			services.Configure<AppSettings>(options => Configuration.GetSection(nameof(AppSettings)).Bind(options));
+			var section = Configuration.GetSection(nameof(AppSettings));
 			var appSettingsModel = new AppSettings();
 			section.Bind(appSettingsModel);
 
 			services.AddAuthentication(o =>
 			{
 				o.DefaultScheme = PolicyName.PhoneNumber;
-			}).AddScheme<PhoneNumberAuthenticationOptions, PhoneNumberAuthenticationHandler>(PolicyName.PhoneNumber, o => { });
+			}).AddScheme<PhoneNumberAuthenticationOptions, PhoneNumberAuthenticationHandler>(PolicyName.PhoneNumber, o =>
+			{
+				o.PhoneMask = new System.Text.RegularExpressions.Regex(appSettingsModel.PhoneRegex);
+			});
 
+			services.AddDataProtection();
 		}
 
 		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-		public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+		public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory factory)
 		{
+			factory.AddDebug();
 			if (env.IsDevelopment())
 			{
 				app.UseDeveloperExceptionPage();
@@ -70,6 +73,7 @@ namespace Project
 				c.SwaggerEndpoint("/swagger/v1/swagger.json", "TemplateUi");
 			});
 			app.UseAuthentication();
+			app.UseStaticFiles();
 
 			app.UseMvc();
 		}

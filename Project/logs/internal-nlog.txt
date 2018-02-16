@@ -427,3 +427,211 @@
 2018-02-14 17:51:36.9900 Info Closing old configuration.
 2018-02-14 17:51:37.0133 Info Found 32 configuration items
 2018-02-14 17:51:37.0133 Info Found 32 configuration items
+2018-02-15 08:02:49.7738 Info Message Template Auto Format enabled
+2018-02-15 08:02:49.8394 Info Adding target File Target[allfile]
+2018-02-15 08:02:49.8394 Info Adding target Null Target[blackhole]
+2018-02-15 08:02:49.8394 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:02:49.8602 Info Found 32 configuration items
+2018-02-15 08:02:49.8689 Info Found 32 configuration items
+2018-02-15 08:02:50.1161 Info Message Template Auto Format enabled
+2018-02-15 08:02:50.1161 Info Found 32 configuration items
+2018-02-15 08:02:50.1161 Info Adding target File Target[allfile]
+2018-02-15 08:02:50.1161 Info Adding target Null Target[blackhole]
+2018-02-15 08:02:50.1161 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:02:50.2486 Info Message Template Auto Format enabled
+2018-02-15 08:02:50.2486 Info Found 32 configuration items
+2018-02-15 08:02:50.2486 Info Adding target File Target[allfile]
+2018-02-15 08:02:50.2486 Info Adding target Null Target[blackhole]
+2018-02-15 08:02:50.2486 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-15 08:02:50.2486 Info Closing old configuration.
+2018-02-15 08:02:50.2712 Info Found 32 configuration items
+2018-02-15 08:02:50.2712 Info Found 32 configuration items
+2018-02-15 08:17:20.8416 Info Shutting down logging...
+2018-02-15 08:17:20.8416 Info Logger has been shut down.
+2018-02-15 08:17:28.0258 Info Message Template Auto Format enabled
+2018-02-15 08:17:28.0823 Info Adding target File Target[allfile]
+2018-02-15 08:17:28.0823 Info Adding target Null Target[blackhole]
+2018-02-15 08:17:28.0887 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:17:28.0887 Info Found 32 configuration items
+2018-02-15 08:17:28.1104 Info Found 32 configuration items
+2018-02-15 08:17:28.2454 Info Message Template Auto Format enabled
+2018-02-15 08:17:28.2454 Info Found 32 configuration items
+2018-02-15 08:17:28.2454 Info Adding target File Target[allfile]
+2018-02-15 08:17:28.2454 Info Adding target Null Target[blackhole]
+2018-02-15 08:17:28.2454 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:17:28.3571 Info Message Template Auto Format enabled
+2018-02-15 08:17:28.3571 Info Found 32 configuration items
+2018-02-15 08:17:28.3571 Info Adding target File Target[allfile]
+2018-02-15 08:17:28.3571 Info Adding target Null Target[blackhole]
+2018-02-15 08:17:28.3571 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-15 08:17:28.3571 Info Closing old configuration.
+2018-02-15 08:17:28.3788 Info Found 32 configuration items
+2018-02-15 08:17:28.3788 Info Found 32 configuration items
+2018-02-15 08:20:15.5174 Info Shutting down logging...
+2018-02-15 08:20:15.5174 Info Logger has been shut down.
+2018-02-15 08:20:22.6454 Info Message Template Auto Format enabled
+2018-02-15 08:20:22.7024 Info Adding target File Target[allfile]
+2018-02-15 08:20:22.7024 Info Adding target Null Target[blackhole]
+2018-02-15 08:20:22.7095 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:20:22.7095 Info Found 32 configuration items
+2018-02-15 08:20:22.7307 Info Found 32 configuration items
+2018-02-15 08:20:22.8708 Info Message Template Auto Format enabled
+2018-02-15 08:20:22.8708 Info Found 32 configuration items
+2018-02-15 08:20:22.8708 Info Adding target File Target[allfile]
+2018-02-15 08:20:22.8708 Info Adding target Null Target[blackhole]
+2018-02-15 08:20:22.8708 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:20:22.9818 Info Message Template Auto Format enabled
+2018-02-15 08:20:22.9818 Info Found 32 configuration items
+2018-02-15 08:20:22.9818 Info Adding target File Target[allfile]
+2018-02-15 08:20:22.9818 Info Adding target Null Target[blackhole]
+2018-02-15 08:20:22.9818 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-15 08:20:22.9818 Info Closing old configuration.
+2018-02-15 08:20:23.0024 Info Found 32 configuration items
+2018-02-15 08:20:23.0024 Info Found 32 configuration items
+2018-02-15 08:22:51.3192 Info Shutting down logging...
+2018-02-15 08:22:51.3192 Info Logger has been shut down.
+2018-02-15 08:22:57.8679 Info Message Template Auto Format enabled
+2018-02-15 08:22:57.9236 Info Adding target File Target[allfile]
+2018-02-15 08:22:57.9236 Info Adding target Null Target[blackhole]
+2018-02-15 08:22:57.9298 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:22:57.9417 Info Found 32 configuration items
+2018-02-15 08:22:57.9417 Info Found 32 configuration items
+2018-02-15 08:22:58.0916 Info Message Template Auto Format enabled
+2018-02-15 08:22:58.0916 Info Found 32 configuration items
+2018-02-15 08:22:58.0916 Info Adding target File Target[allfile]
+2018-02-15 08:22:58.0916 Info Adding target Null Target[blackhole]
+2018-02-15 08:22:58.0916 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:22:58.2062 Info Message Template Auto Format enabled
+2018-02-15 08:22:58.2062 Info Found 32 configuration items
+2018-02-15 08:22:58.2074 Info Adding target File Target[allfile]
+2018-02-15 08:22:58.2074 Info Adding target Null Target[blackhole]
+2018-02-15 08:22:58.2074 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-15 08:22:58.2074 Info Closing old configuration.
+2018-02-15 08:22:58.2260 Info Found 32 configuration items
+2018-02-15 08:22:58.2260 Info Found 32 configuration items
+2018-02-15 08:26:29.9297 Info Shutting down logging...
+2018-02-15 08:26:29.9297 Info Logger has been shut down.
+2018-02-15 08:26:36.2575 Info Message Template Auto Format enabled
+2018-02-15 08:26:36.3135 Info Adding target File Target[allfile]
+2018-02-15 08:26:36.3148 Info Adding target Null Target[blackhole]
+2018-02-15 08:26:36.3148 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:26:36.3327 Info Found 32 configuration items
+2018-02-15 08:26:36.3327 Info Found 32 configuration items
+2018-02-15 08:26:36.4786 Info Message Template Auto Format enabled
+2018-02-15 08:26:36.4786 Info Found 32 configuration items
+2018-02-15 08:26:36.4786 Info Adding target File Target[allfile]
+2018-02-15 08:26:36.4786 Info Adding target Null Target[blackhole]
+2018-02-15 08:26:36.4786 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:26:36.5897 Info Message Template Auto Format enabled
+2018-02-15 08:26:36.5897 Info Found 32 configuration items
+2018-02-15 08:26:36.5897 Info Adding target File Target[allfile]
+2018-02-15 08:26:36.5897 Info Adding target Null Target[blackhole]
+2018-02-15 08:26:36.5897 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-15 08:26:36.5897 Info Closing old configuration.
+2018-02-15 08:26:36.6143 Info Found 32 configuration items
+2018-02-15 08:26:36.6143 Info Found 32 configuration items
+2018-02-15 08:33:14.6561 Info Shutting down logging...
+2018-02-15 08:33:14.6561 Info Logger has been shut down.
+2018-02-15 08:33:59.6148 Info Message Template Auto Format enabled
+2018-02-15 08:33:59.6702 Info Adding target File Target[allfile]
+2018-02-15 08:33:59.6702 Info Adding target Null Target[blackhole]
+2018-02-15 08:33:59.6702 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:33:59.6906 Info Found 32 configuration items
+2018-02-15 08:33:59.6998 Info Found 32 configuration items
+2018-02-15 08:33:59.8397 Info Message Template Auto Format enabled
+2018-02-15 08:33:59.8403 Info Found 32 configuration items
+2018-02-15 08:33:59.8403 Info Adding target File Target[allfile]
+2018-02-15 08:33:59.8403 Info Adding target Null Target[blackhole]
+2018-02-15 08:33:59.8403 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:33:59.9496 Info Message Template Auto Format enabled
+2018-02-15 08:33:59.9496 Info Found 32 configuration items
+2018-02-15 08:33:59.9496 Info Adding target File Target[allfile]
+2018-02-15 08:33:59.9496 Info Adding target Null Target[blackhole]
+2018-02-15 08:33:59.9496 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-15 08:33:59.9496 Info Closing old configuration.
+2018-02-15 08:33:59.9706 Info Found 32 configuration items
+2018-02-15 08:33:59.9706 Info Found 32 configuration items
+2018-02-15 08:35:01.4479 Info Shutting down logging...
+2018-02-15 08:35:01.4520 Info Logger has been shut down.
+2018-02-15 08:35:08.4200 Info Message Template Auto Format enabled
+2018-02-15 08:35:08.4746 Info Adding target File Target[allfile]
+2018-02-15 08:35:08.4746 Info Adding target Null Target[blackhole]
+2018-02-15 08:35:08.4817 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:35:08.4817 Info Found 32 configuration items
+2018-02-15 08:35:08.5026 Info Found 32 configuration items
+2018-02-15 08:35:08.6522 Info Message Template Auto Format enabled
+2018-02-15 08:35:08.6522 Info Found 32 configuration items
+2018-02-15 08:35:08.6522 Info Adding target File Target[allfile]
+2018-02-15 08:35:08.6522 Info Adding target Null Target[blackhole]
+2018-02-15 08:35:08.6522 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 08:35:08.7683 Info Message Template Auto Format enabled
+2018-02-15 08:35:08.7683 Info Found 32 configuration items
+2018-02-15 08:35:08.7683 Info Adding target File Target[allfile]
+2018-02-15 08:35:08.7683 Info Adding target Null Target[blackhole]
+2018-02-15 08:35:08.7683 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-15 08:35:08.7683 Info Closing old configuration.
+2018-02-15 08:35:08.7895 Info Found 32 configuration items
+2018-02-15 08:35:08.7895 Info Found 32 configuration items
+2018-02-15 08:35:23.1460 Info Shutting down logging...
+2018-02-15 08:35:23.1460 Info Logger has been shut down.
+2018-02-15 15:12:34.4668 Info Message Template Auto Format enabled
+2018-02-15 15:12:34.5205 Info Adding target File Target[allfile]
+2018-02-15 15:12:34.5205 Info Adding target Null Target[blackhole]
+2018-02-15 15:12:34.5205 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 15:12:34.5403 Info Found 32 configuration items
+2018-02-15 15:12:34.5403 Info Found 32 configuration items
+2018-02-15 15:12:34.6873 Info Message Template Auto Format enabled
+2018-02-15 15:12:34.6873 Info Found 32 configuration items
+2018-02-15 15:12:34.6873 Info Adding target File Target[allfile]
+2018-02-15 15:12:34.6873 Info Adding target Null Target[blackhole]
+2018-02-15 15:12:34.6873 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-15 15:12:34.8012 Info Message Template Auto Format enabled
+2018-02-15 15:12:34.8012 Info Found 32 configuration items
+2018-02-15 15:12:34.8012 Info Adding target File Target[allfile]
+2018-02-15 15:12:34.8012 Info Adding target Null Target[blackhole]
+2018-02-15 15:12:34.8012 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-15 15:12:34.8012 Info Closing old configuration.
+2018-02-15 15:12:34.8226 Info Found 32 configuration items
+2018-02-15 15:12:34.8226 Info Found 32 configuration items
+2018-02-15 15:18:02.3519 Info Shutting down logging...
+2018-02-15 15:18:02.3519 Info Logger has been shut down.
+2018-02-16 17:22:48.1896 Info Message Template Auto Format enabled
+2018-02-16 17:22:48.2455 Info Adding target File Target[allfile]
+2018-02-16 17:22:48.2455 Info Adding target Null Target[blackhole]
+2018-02-16 17:22:48.2455 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-16 17:22:48.2639 Info Found 32 configuration items
+2018-02-16 17:22:48.2728 Info Found 32 configuration items
+2018-02-16 17:22:48.4213 Info Message Template Auto Format enabled
+2018-02-16 17:22:48.4213 Info Found 32 configuration items
+2018-02-16 17:22:48.4213 Info Adding target File Target[allfile]
+2018-02-16 17:22:48.4213 Info Adding target Null Target[blackhole]
+2018-02-16 17:22:48.4213 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-16 17:22:48.5396 Info Message Template Auto Format enabled
+2018-02-16 17:22:48.5396 Info Found 32 configuration items
+2018-02-16 17:22:48.5396 Info Adding target File Target[allfile]
+2018-02-16 17:22:48.5396 Info Adding target Null Target[blackhole]
+2018-02-16 17:22:48.5396 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-16 17:22:48.5396 Info Closing old configuration.
+2018-02-16 17:22:48.5598 Info Found 32 configuration items
+2018-02-16 17:22:48.5598 Info Found 32 configuration items
+2018-02-16 17:37:28.3112 Info Shutting down logging...
+2018-02-16 17:37:28.3150 Info Logger has been shut down.
+2018-02-16 17:37:35.3290 Info Message Template Auto Format enabled
+2018-02-16 17:37:35.3825 Info Adding target File Target[allfile]
+2018-02-16 17:37:35.3825 Info Adding target Null Target[blackhole]
+2018-02-16 17:37:35.3825 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-16 17:37:35.4017 Info Found 32 configuration items
+2018-02-16 17:37:35.4104 Info Found 32 configuration items
+2018-02-16 17:37:35.5436 Info Message Template Auto Format enabled
+2018-02-16 17:37:35.5436 Info Found 32 configuration items
+2018-02-16 17:37:35.5436 Info Adding target File Target[allfile]
+2018-02-16 17:37:35.5436 Info Adding target Null Target[blackhole]
+2018-02-16 17:37:35.5436 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\nlog.config...
+2018-02-16 17:37:35.6553 Info Message Template Auto Format enabled
+2018-02-16 17:37:35.6558 Info Found 32 configuration items
+2018-02-16 17:37:35.6558 Info Adding target File Target[allfile]
+2018-02-16 17:37:35.6558 Info Adding target Null Target[blackhole]
+2018-02-16 17:37:35.6558 Info Configured from an XML element in D:\My\dev\MicroserviceTemplate\project\NLog.config...
+2018-02-16 17:37:35.6558 Info Closing old configuration.
+2018-02-16 17:37:35.6761 Info Found 32 configuration items
+2018-02-16 17:37:35.6761 Info Found 32 configuration items

@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
+using System.Security.Principal;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication;
@@ -26,8 +27,9 @@ namespace Project.Auth
 
 			if (!string.IsNullOrEmpty(phone) && Options.PhoneMask.IsMatch(phone))
 			{
-				var identities = new List<ClaimsIdentity> { new ClaimsIdentity(nameof(PhoneNumberAuthenticationHandler)) };
-				var ticket = new AuthenticationTicket(new ClaimsPrincipal(identities), this.Scheme.Name);
+				var claims = new[] { new Claim("phone", phone) };
+				var identity = new ClaimsIdentity(claims, "PhoneNumberAuthenticationHandler");
+				var ticket = new AuthenticationTicket(new ClaimsPrincipal(identity), this.Scheme.Name);
 
 				return Task.FromResult(AuthenticateResult.Success(ticket));
 			}

@@ -8,8 +8,7 @@ namespace Project.Auth
 {
 	public class PhoneNumberAuthenticationOptions : AuthenticationSchemeOptions
 	{
-		public ClaimsIdentity Identity { get; set; }
-		public Regex PhoneMask { get; } = new Regex("7\\d{10}");
+		public Regex PhoneMask { get; set; }// = new Regex("7\\d{10}");
 
 	}
 }
